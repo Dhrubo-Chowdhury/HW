@@ -1,0 +1,3 @@
+Bingo Game in Java
+
+We keep all the drawn numbers in a ArrayList and iterate through it. In each iteration, we check if the number appears in the given Bingo card, if the number exists, we add the row and column number in the HashSet and check if we have alredy won.
