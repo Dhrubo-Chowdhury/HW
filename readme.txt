@@ -6,7 +6,7 @@ Initially, we keep the bingo card in a 2D integer array with the middle element 
 
 Assumptions made:
 1. first column in the Bingo card contains only values from 1-15
-1. second column in the Bingo card contains only values from 16-30
-1. third column in the Bingo card contains only values from 31-45
-1. fourth column in the Bingo card contains only values from 46-60
-1. fifth column in the Bingo card contains only values from 61-75
+2. second column in the Bingo card contains only values from 16-30
+3. third column in the Bingo card contains only values from 31-45
+4. fourth column in the Bingo card contains only values from 46-60
+5. fifth column in the Bingo card contains only values from 61-75
